@@ -1,4 +1,10 @@
-### Hi there 👋
+<!--### Hi there 👋-->
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+I'm [Florian Mirus](https://fmirus.github.io). 
+I'm currently working as Researcher Dependable Automated Driving and Robotics with Intel Labs, Karlsruhe, Germany.
+
+[![Florian's github stats](https://github-readme-stats.vercel.app/api?username=fmirus&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **fmirus/fmirus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
