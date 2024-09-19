@@ -16,10 +16,16 @@ I'm currently working as Researcher Dependable Driving Automation and Robotics w
 
 #### Statistics
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fmirus&layout=compact&show_icons=true&theme=radical" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fmirus&theme=radical&show_icons=ture" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fmirus&layout=compact&show_icons=true&theme=radical&hide=postscript" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fmirus&layout=compact&langs_count=8&card_width=320" />
+ </a> 
+<!--<p align="left"> -->
+  <!--<img alt="Top Langs" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fmirus&layout=compact&show_icons=true&theme=radical" />-->
+  <!--<img alt="github stats" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fmirus&theme=radical&show_icons=ture" />-->
+<!--</p>-->
 <!--
 **fmirus/fmirus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
