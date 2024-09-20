@@ -10,7 +10,7 @@ I'm currently working as Researcher Dependable Driving Automation and Robotics w
 #### Selected Publications
 
 - [Scenario Execution for Robotics: A generic, backend-agnostic library for running reproducible robotics experiments and tests](https://arxiv.org/abs/2409.07080)
-- [Towards Fault-Tolerant Deployment of Mobile Robot Navigation in the Edge: An Experimental Study](https://www.cncf.io/reports/edge-native-application-design-behaviors-whitepaper/)
+- [Towards Fault-Tolerant Deployment of Mobile Robot Navigation in the Edge: An Experimental Study](https://ieeexplore.ieee.org/document/10611013)
 - [Towards a cognitive automotive environment model: a novel approach based on distributed representations and spiking neural networks](https://mediatum.ub.tum.de/?id=1519881)
 - [The Importance of Balanced Data Sets: Analyzing a Vehicle Trajectory Prediction Model based on Neural Networks and Distributed Representations](https://ieeexplore.ieee.org/document/9206627)
 
