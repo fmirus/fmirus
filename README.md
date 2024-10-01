@@ -1,5 +1,5 @@
 <!--### Hi there 👋-->
-### Hi, I'm am [Florian Mirus](https://fmirus.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm [Florian Mirus](https://fmirus.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm currently working as Researcher Dependable Driving Automation and Robotics with Intel Labs, Karlsruhe, Germany.
 
