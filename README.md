@@ -5,7 +5,7 @@ I'm currently working as Senior Developer with Autonomous Reply, Munich, Germany
 
 #### Open Source Projects
 
-- [Scenario Execution for Robotics](https://github.com/IntelLabs/scenario_execution) is a backend- and middleware-agnostic library for scenari0-based robotics testing written in Python based on the generic scenario description language OpenSCENARIO 2 and pytrees
+- [Scenario Execution for Robotics](https://github.com/cps-test-lab/scenario_execution) is a backend- and middleware-agnostic library for scenario-based robotics testing written in Python based on the generic scenario description language OpenSCENARIO 2 and pytrees
 - [torcs_ros](https://github.com/fmirus/torcs_ros) is a [ROS2](https://docs.ros.org/en/jazzy/index.html) wrapper for [The Open Source Race Car Simulator (TORCS)](https://github.com/fmirus/torcs-1.3.7).
 
 #### Selected Publications
