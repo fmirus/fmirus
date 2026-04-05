@@ -16,7 +16,7 @@ I'm currently working as Principal Software Developer with Autonomous Reply, Mun
 - [The Importance of Balanced Data Sets: Analyzing a Vehicle Trajectory Prediction Model based on Neural Networks and Distributed Representations](https://ieeexplore.ieee.org/document/9206627)
 
 #### Statistics
-[![FMirus' GitHub stats](https://github-readme-stats.vercel.app/api?username=fmirus)](https://github.com/anuraghazra/github-readme-stats)
+[![FMirus' GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=fmirus)](https://github.com/pranesh-2005/github-readme-stats-fast)
 <!-- <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fmirus&layout=compact&theme=radical&langs_count=8&card_width=320&hide=postscript" />
 </a> 
