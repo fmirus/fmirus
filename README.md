@@ -16,13 +16,14 @@ I'm currently working as Principal Software Developer with Autonomous Reply, Mun
 - [The Importance of Balanced Data Sets: Analyzing a Vehicle Trajectory Prediction Model based on Neural Networks and Distributed Representations](https://ieeexplore.ieee.org/document/9206627)
 
 #### Statistics
-
-<a href="https://github.com/anuraghazra/convoychat">
+[![FMirus' GitHub stats](https://github-readme-stats.vercel.app/api?username=fmirus)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fmirus&layout=compact&theme=radical&langs_count=8&card_width=320&hide=postscript" />
 </a> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fmirus&layout=compact&show_icons=true&theme=radical" />
 </a>
+![FMirus' GitHub stats](https://github-readme-stats.vercel.app/api?username=fmirus)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--<p align="left"> -->
   <!--<img alt="Top Langs" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fmirus&layout=compact&show_icons=true&theme=radical" />-->
   <!--<img alt="github stats" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fmirus&theme=radical&show_icons=ture" />-->
